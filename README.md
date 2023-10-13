@@ -21,7 +21,7 @@ pip install -r requirement.txt
 
 1. Pretrained models would place in ./checkpoints.
 
-    Download the pretrained model and place it in the `/checkpoints/` folder.
+    Download the pretrained model and place it in the `checkpoints/` folder.
     You can download it from <a href="https://pan.baidu.com/s/1aHbL3ZjiEq2RWtxl6ZfB5Q"> here </a>, password：tyv4
 
 2. Color codebook would place in ./color_codebook.
