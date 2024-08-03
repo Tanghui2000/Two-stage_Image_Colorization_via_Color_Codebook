@@ -113,7 +113,7 @@ if __name__ == '__main__':
     ## Build Model
     print('==> Build the model')
     model = SUNet_model(opt)
-    model.load_from(opt)
+    # model.load_from(opt)
     p_number = network_parameters(model)
     model.cuda()
     model = torch.nn.DataParallel(model)
